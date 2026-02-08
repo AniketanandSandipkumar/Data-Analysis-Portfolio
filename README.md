@@ -2,14 +2,14 @@
 **Aniketanand Sandipkumar**  
 *Aspirant Data Analyst | Data Science Enthusiast*
 
-[![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python&logoColor=white)](https://www.python.org/)
-[![Pandas](https://img.shields.io/badge/Pandas-1.6.2-lightgrey?logo=pandas&logoColor=black)](https://pandas.pydata.org/)
+[![Python](https://img.shields.io/badge/Python-3.13-blue?logo=python&logoColor=white)](https://www.python.org/)
+[![Pandas](https://img.shields.io/badge/Pandas-2.1.1-lightgrey?logo=pandas&logoColor=black)](https://pandas.pydata.org/)
 [![NumPy](https://img.shields.io/badge/NumPy-1.26-yellowgreen?logo=numpy&logoColor=white)](https://numpy.org/)
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-3.8.1-orange?logo=matplotlib&logoColor=white)](https://matplotlib.org/)
 [![Seaborn](https://img.shields.io/badge/Seaborn-0.12.2-blueviolet?logo=seaborn&logoColor=white)](https://seaborn.pydata.org/)
 [![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter&logoColor=white)](https://jupyter.org/)
-[![GitHub Repo Size](https://img.shields.io/github/repo-size/your-username/Data-Analysis-Portfolio)]()
-[![Top Language](https://img.shields.io/github/languages/top/your-username/Data-Analysis-Portfolio)]()
+[![GitHub Repo Size](https://img.shields.io/github/repo-size/AniketanandSandipkumar/Data-Analysis-Portfolio)](https://github.com/AniketanandSandipkumar/Data-Analysis-Portfolio)
+[![Top Language](https://img.shields.io/github/languages/top/AniketanandSandipkumar/Data-Analysis-Portfolio)](https://github.com/AniketanandSandipkumar/Data-Analysis-Portfolio)
 
 ---
 
