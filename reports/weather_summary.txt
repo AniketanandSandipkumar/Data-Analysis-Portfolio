@@ -1,0 +1,16 @@
+EXECUTIVE SUMMARY:
+
+This retail sales analysis examines transaction-level data to understand overall revenue performance and purchasing patterns. The goal is to provide insights that help improve sales strategy, inventory planning, and customer value optimization.
+
+The dataset reveals total sales of 519,280.69, with an average transaction value of 259.64. These figures indicate a steady revenue flow driven by moderate spending per purchase rather than a few extremely high-value transactions.
+
+A consistent average transaction size suggests stable customer buying behavior, which is beneficial for forecasting and stock management. However, it also highlights an opportunity to increase revenue through upselling, cross-selling, or bundled promotions to raise the average basket value.
+
+Key Implication:
+The business shows stable but optimizable sales performance. Strategic promotions, product bundling, and targeted marketing can help increase average transaction value and overall revenue without needing a proportional increase in customer volume.
+
+DATA ANALYSIS SUMMARY REPORT
+----------------------------------------
+Average Temperature: 11.929691678736571
+Average Humidity: 0.734902052287175
+Max Wind Speed: 63.8526

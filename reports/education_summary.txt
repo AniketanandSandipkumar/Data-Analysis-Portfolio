@@ -1,0 +1,17 @@
+EXECUTIVE SUMMARY:
+
+This study analyzes student academic performance to understand the key factors influencing final grades and overall success rates. The dataset includes student attendance patterns, internal assessment scores, and final exam results, enabling a comprehensive evaluation of learning outcomes.
+
+The analysis shows that the average final grade is 10.68, indicating moderate academic performance across the student group. The pass rate stands at 58.48%, meaning nearly 4 out of 10 students are at risk of failing — highlighting a significant opportunity for academic intervention and support programs.
+
+Correlation analysis between absences and grades reveals a very weak negative relationship (-0.006), suggesting that attendance alone does not strongly explain performance differences in this dataset. This indicates that other factors such as prior grades (G1, G2), study time, and learning support may play a more important role in determining student success.
+
+Key Implication:
+Improving academic outcomes requires a multi-factor strategy, focusing on early performance monitoring, structured study support, and targeted assistance for struggling students rather than relying solely on attendance tracking.
+
+DATA ANALYSIS SUMMARY REPORT
+----------------------------------------
+
+Average Final Grade: 10.67932489451477
+Pass Rate (%): 58.48101265822785
+Absence–Grade Correlation: -0.005908806132303034
